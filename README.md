@@ -20,7 +20,7 @@ This is a Save Manager made for the Stray Speedrun Community so that managing sa
   
 ## Installation
   
-1. Download the Latest Release of Stray Save Manager.
+1. Download the [Latest Release](https://github.com/Okaetsu/StraySaveManager/releases/latest) of Stray Save Manager.
   
 2. Download and Install [.NET 6.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime). (Required)
 
